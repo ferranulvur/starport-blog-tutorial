@@ -27716,6 +27716,8 @@ paths:
       tags:
         - Query
 definitions:
+  cosmonaut.blog.blog.MsgCreatePostResponse:
+    type: object
   cosmonaut.blog.blog.Params:
     type: object
     description: Params defines the parameters for the module.
